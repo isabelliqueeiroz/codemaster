@@ -6,7 +6,7 @@
 
 ---
 
-_Lista de tarefas_ 📖
+_Lista de tarefas:_ 📖
 
 ✅ 1. Menu Mobile
 
@@ -16,8 +16,15 @@ _**Foi realizado:**_
 <p>Ele permite abrir e fechar o menu quando o usuário clica no ícone, mudando as classes do ícone e da lista de navegação.
 Também bloqueia a rolagem da página quando o menu está aberto. Além disso, o menu é fechado automaticamente quando o usuário clica em um link ou rola a página.</p>
 
-[ ] 2. Links Ativos
+---
+✅ 2. Links Ativos
 
+<p>O código seleciona todos os links do menu de navegação e adiciona um evento de clique a cada um.</p>
+
+_**Foi realizado:**_
+<p>Quando um link é clicado, ele remove a classe active de todos os links e adiciona essa classe apenas ao link selecionado, destacando-o no menu.</p>
+
+---
 [ ] 3. Formulário com API
 
 [ ] 4. Animação de Scroll
