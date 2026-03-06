@@ -25,7 +25,14 @@ _**Foi realizado:**_
 <p>Quando um link é clicado, ele remove a classe active de todos os links e adiciona essa classe apenas ao link selecionado, destacando-o no menu.</p>
 
 ---
-[ ] 3. Formulário com API
+✅ 3. Alterar modo claro/escuro
+
+<p>O código permite alternar entre o modo claro e escuro do site<p>
+
+_**Foi realizado:**_
+<p>Quando a função é executada, ela adiciona ou remove a classe light no elemento html, mudando o tema da página. A escolha do usuário é salva no localStorage, e quando a página é carregada novamente, o site aplica automaticamente o tema que foi salvo.</p>
+
+
 
 [ ] 4. Animação de Scroll
 
