@@ -32,6 +32,14 @@ _**Foi realizado:**_
 _**Foi realizado:**_
 <p>Quando a função é executada, ela adiciona ou remove a classe light no elemento html, mudando o tema da página. A escolha do usuário é salva no localStorage, e quando a página é carregada novamente, o site aplica automaticamente o tema que foi salvo.</p>
 
+---
+✅ 4. Animação da seção home
+
+<p>O código aplica uma animação de entrada (fade-in) na seção “home” do site.<p>
+
+_**Foi realizado:**_
+<p>Inicialmente, a seção começa transparente e levemente deslocada para baixo. Após 100ms, a opacidade é ajustada para 1 e a posição volta ao normal, criando um efeito suave de aparecimento e deslizamento para cima.</p>
+
 
 
 [ ] 4. Animação de Scroll
