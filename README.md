@@ -69,6 +69,14 @@ _**Foi realizado:**_
 
 <p>O código envia os dados de um formulário de contato usando Fetch API, mostra uma mensagem de agradecimento e recarrega a página após 2 segundos se o envio for bem-sucedido.<p>
 
+---
+✅ 9. Animação da seção "Sobre Mim".
+
+<p>O código verifica quando a seção “Sobre Mim” aparece na tela durante o scroll e adiciona a classe visible para ativar uma animação.<p>
+
+_**Foi realizado:**_
+<p>Depois que a animação acontece, o evento de scroll é removido para evitar execuções desnecessárias.</p>
+
 
 
 
