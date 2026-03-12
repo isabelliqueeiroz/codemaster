@@ -40,7 +40,12 @@ _**Foi realizado:**_
 _**Foi realizado:**_
 <p>Inicialmente, a seção começa transparente e levemente deslocada para baixo. Após 100ms, a opacidade é ajustada para 1 e a posição volta ao normal, criando um efeito suave de aparecimento e deslizamento para cima.</p>
 
+---
+✅ 5. Animação das seções
 
+<p>O código seleciona todas as <section> da página e aplica um estado inicial com opacidade 0 e uma transformação, deixando-as invisíveis. Cada seção pode ter um efeito inicial diferente (como translateY, scale ou rotate).<p>
 
-[ ] 4. Animação de Scroll
+_**Foi realizado:**_
+<p>Em seguida, é criado um IntersectionObserver, que observa quando cada seção entra na área visível da tela durante o scroll. Quando isso acontece, a opacidade da seção muda para 1 e a transformação é removida, fazendo a seção aparecer com uma animação suave.</p>
+
 
