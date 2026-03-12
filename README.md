@@ -49,12 +49,23 @@ _**Foi realizado:**_
 <p>Em seguida, é criado um IntersectionObserver, que observa quando cada seção entra na área visível da tela durante o scroll. Quando isso acontece, a opacidade da seção muda para 1 e a transformação é removida, fazendo a seção aparecer com uma animação suave.</p>
 
 ---
-✅ 5. Botão de voltar ao topo
+✅ 6. Botão de voltar ao topo
 
 <p>O código seleciona o link dentro do elemento .top e adiciona um evento de clique a ele. Quando o usuário clica no botão, o comportamento padrão do link é bloqueado com preventDefault().<p>
 
 _**Foi realizado:**_
 <p>Em seguida, a função window.scrollTo() é usada para rolar a página suavemente até o topo, utilizando behavior: 'smooth'. Assim, o botão funciona como um atalho para voltar ao início da página com uma animação de rolagem suave.'</p>
+
+✅ 7. Formulário de contato.
+
+<p>O código cria um carrossel de slides que permite navegar entre projetos usando botões de próximo e anterior.<p>
+
+_**Foi realizado:**_
+<p>Ele controla qual slide está visível, ocultando os outros e movendo o carrossel horizontalmente. Também possui troca automática de slides a cada 5 segundos, que é pausada quando o mouse fica sobre o carrossel e retomada quando o mouse sai.</p>
+
+
+
+
 
 
 
