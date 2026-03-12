@@ -56,12 +56,18 @@ _**Foi realizado:**_
 _**Foi realizado:**_
 <p>Em seguida, a função window.scrollTo() é usada para rolar a página suavemente até o topo, utilizando behavior: 'smooth'. Assim, o botão funciona como um atalho para voltar ao início da página com uma animação de rolagem suave.'</p>
 
-✅ 7. Formulário de contato.
+---
+✅ 7. Carrossel de projetos.
 
 <p>O código cria um carrossel de slides que permite navegar entre projetos usando botões de próximo e anterior.<p>
 
 _**Foi realizado:**_
 <p>Ele controla qual slide está visível, ocultando os outros e movendo o carrossel horizontalmente. Também possui troca automática de slides a cada 5 segundos, que é pausada quando o mouse fica sobre o carrossel e retomada quando o mouse sai.</p>
+
+---
+✅ 8. Formulário de contato.
+
+<p>O código envia os dados de um formulário de contato usando Fetch API, mostra uma mensagem de agradecimento e recarrega a página após 2 segundos se o envio for bem-sucedido.<p>
 
 
 
