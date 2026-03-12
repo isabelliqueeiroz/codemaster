@@ -48,4 +48,13 @@ _**Foi realizado:**_
 _**Foi realizado:**_
 <p>Em seguida, é criado um IntersectionObserver, que observa quando cada seção entra na área visível da tela durante o scroll. Quando isso acontece, a opacidade da seção muda para 1 e a transformação é removida, fazendo a seção aparecer com uma animação suave.</p>
 
+---
+✅ 5. Botão de voltar ao topo
+
+<p>O código seleciona o link dentro do elemento .top e adiciona um evento de clique a ele. Quando o usuário clica no botão, o comportamento padrão do link é bloqueado com preventDefault().<p>
+
+_**Foi realizado:**_
+<p>Em seguida, a função window.scrollTo() é usada para rolar a página suavemente até o topo, utilizando behavior: 'smooth'. Assim, o botão funciona como um atalho para voltar ao início da página com uma animação de rolagem suave.'</p>
+
+
 
